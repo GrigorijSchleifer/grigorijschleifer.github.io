@@ -19,9 +19,9 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: CodingDoctors                          # the main title
+title: codingdoctors                          # the main title
 
-tagline: Site where doctors learn to code  # it will display as the sub-title
+tagline: My journey to code mastery  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A site where I share my journey to become a command line hero and a coding monkey with a stethoscope
