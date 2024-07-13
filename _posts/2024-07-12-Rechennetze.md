@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This is my Hello World sample blog post
-tags: 
-categories:
+title: Rechennetzwerke
+tags: [Rechennetzwerke] 
+categories: [IT-Infrastrukturkomponenten]
 ---
