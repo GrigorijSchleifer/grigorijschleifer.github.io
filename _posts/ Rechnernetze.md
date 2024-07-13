@@ -8,4 +8,5 @@ tags: [Rechennetze]
 # Hello Rechennetze
 
 ```R
+print("Hello World!")
 ```
