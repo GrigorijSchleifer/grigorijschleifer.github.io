@@ -19,12 +19,12 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Weiterbildung Medizinische Informatik                          # the main title
+title: CodingDoktors                  # the main title
 
 tagline:   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  ---
+  Lerninhalte für die Weiterbildung "Medizinische Informatik"
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://grigorijschleifer.github.io'
