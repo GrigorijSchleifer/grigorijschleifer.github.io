@@ -1,6 +1,6 @@
 ---
 title: Rechennetze
-date: Sat Jul 13 08:57:18 CEST 2024
+date: 2024-07-13 12:00:00 -500
 categories: [Rechennetze]
 tags: [Rechennetze]
 ---
