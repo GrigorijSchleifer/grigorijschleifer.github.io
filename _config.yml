@@ -22,7 +22,7 @@ timezone: Europe/Berlin
 title: CodingDoctors                  # the main title
 
 tagline:   # it will display as the sub-title
-  Lernstoff für die Weiterbildung "Medizinische Informatik"
+  Some interesting stuff about R
 
 description: >-                        # used by seo meta and the atom feed
   Wo kommt das hin?
